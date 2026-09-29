@@ -49,6 +49,6 @@ function calling like def grades also used which is one of the most fascinating 
 this code can also be reduced using dictionaries and defining function with parameters but this project is to showcase the usage of some concepts to show their 
 usage in real world 
 this code will give you a touch of application of coding in real world
-
+it also challenges the programmer to enter the inputs very carefully such that it does not pass the threshold value like total marks=70 and total sections=3 .
 📜 Author
 Utkarsh Agarwal - utkarshcoding26
