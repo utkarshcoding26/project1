@@ -54,5 +54,6 @@ Importance:this code will give you a touch of application of coding in real worl
 The difficulties experienced by the programmer include having to enter the inputs very carefully in order that the threshold value is not passed, for example total marks equal 70 and total sections equal 3.
 
 HELP:code would be very helpful for storing every type of data for multiple students for multiple sections
+
 📜 Author
 Utkarsh Agarwal - utkarshcoding26
