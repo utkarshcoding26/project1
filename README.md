@@ -45,6 +45,10 @@ UTmarks_CTmarks_finalmarks1_attendance(): Collects raw input for unit tests, cla
 grades(): Evaluates soft-skill parameters and conduct grades.
 
 Control Flow Loops: Iterates through each section to aggregate pass counts and term reports.
+function calling like def grades also used which is one of the most fascinating concepts of python
+this code can also be reduced using dictionaries and defining function with parameters but this project is to showcase the usage of some concepts to show their 
+usage in real world 
+this code will give you a touch of application of coding in real world
 
 📜 Author
 Utkarsh Agarwal - utkarshcoding26
